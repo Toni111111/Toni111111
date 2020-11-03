@@ -3,7 +3,7 @@
 
 ### 📜 About me
 
-* 👨🏽‍💻 Strong Middle Android Developer
+* 👨🏽‍💻 Team Lead / Strong Middle Android Developer
 * <img src="https://github.com/Toni111111/Toni111111/blob/master/icons8-github-48.png" width="25" height="25" /> Free software enthusiast
 * <img src="https://github.com/Toni111111/Toni111111/blob/master/noun_Hackathon_6324%20(1).png" width="30" height="30" /> I I like to optimize team work
 
